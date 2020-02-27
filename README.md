@@ -5,6 +5,8 @@
 
 	RCT6-FLASH: 256K	RAM: 48K
 
+- EDA设计软件：Altium Designer 16
+
 - 主要硬件资源
 
 	- STM32F103RCT6, TQFP64, FLASH: 256K
